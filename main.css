@@ -1,0 +1,29 @@
+
+.jumbotron {
+  background-image: url("space-background.jpg");
+  height: 150px;
+  color: white;
+  margin: 0;
+  border-radius: 0;
+  font-size: 22px;
+}
+
+footer {
+  margin: auto;
+  background-image: url("space-background.jpg");
+  height: 100px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color:white;
+  font-size: 22px;
+}
+.para{
+    padding:3px;
+    margin-left:6px;
+}
+#upper{
+    margin-top:40px;
+}
